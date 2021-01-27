@@ -1,0 +1,3 @@
+﻿  lab16.cpp
+c:\users\norco college\source\repos\lab16\lab16\lab16.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lab16.vcxproj -> C:\Users\Norco College\source\repos\lab16\Debug\lab16.exe
