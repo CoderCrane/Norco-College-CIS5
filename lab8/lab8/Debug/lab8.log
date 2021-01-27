@@ -1,0 +1,3 @@
+﻿  lab8.cpp
+c:\users\norco college\source\repos\lab8\lab8\lab8.cpp(12): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab8.vcxproj -> C:\Users\Norco College\source\repos\lab8\Debug\lab8.exe
